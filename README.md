@@ -1,4 +1,5 @@
-instruction
-===================
+# crowdsourcing
 
-I want you to play a little flash-game called ESCAPE and fill in a form afterwards. 
+Let people execute a simple task and fill in a form with data from that task.
+
+I choose to let them play a little flash game to retrieve data from their performance in the game and some little extra infos.
